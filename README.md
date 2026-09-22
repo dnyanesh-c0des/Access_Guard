@@ -73,4 +73,4 @@ The program contains these phases:
 - Changes are not saved after the program exits.
 - This project is intended for learning Python data structures, dictionaries, lists, sets, tuples
 
-This project is create without any loops or further topics only basi python topics are used to create this.
+This project is create without any loops or further topics only basic python topics are used to create this.
